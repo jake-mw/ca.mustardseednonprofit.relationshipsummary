@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<extension key="ca.mustardseednonprofit.relationshipsummary" type="module">
+  <file>relationshipsummary</file>
+  <name>Related Financial Summary</name>
+  <description>Provides a summary of related contacts who have financial history, on a contact's Summary tab. Includes relationship type, related contact name, last transaction date, and lifetime total.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>jake-mw</author>
+    <email>jake@mustardseednonprofit.ca</email>
+  </maintainer>
+  <urls>
+  </urls>
+  <releaseDate>2016-04-21</releaseDate>
+  <version>0.9</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>4.4</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/Relationshipsummary</namespace>
+  </civix>
+</extension>
